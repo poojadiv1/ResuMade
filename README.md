@@ -65,7 +65,8 @@ Screenshots:
 <img width="1772" height="791" alt="image" src="https://github.com/user-attachments/assets/7c4ca0b5-62ba-416a-8b04-ac2cc936ef2e" />
 <img width="1750" height="766" alt="image" src="https://github.com/user-attachments/assets/402493df-049a-483d-8249-ec7cb19a3cd7" />
 
-<img width="673" height="771" alt="image" src="https://github.com/user-attachments/assets/e0e653b3-8aad-4083-867b-687a50b6fa26" />
+<img width="616" height="844" alt="image" src="https://github.com/user-attachments/assets/4e3f0c8a-5651-4fa0-af1d-10a5ba12924c" />
+
 
 🔗 Repository Link
 
